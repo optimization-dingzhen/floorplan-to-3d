@@ -1,0 +1,1 @@
+{"name":"floorplan-to-3d","private":true,"scripts":{"test":"node tests/harness.test.mjs"},"type":"module","version":"0.1.0"}
